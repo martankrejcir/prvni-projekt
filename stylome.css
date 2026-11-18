@@ -1,0 +1,80 @@
+.kontejner
+{
+    text-align: center;
+    padding-left: 800px;
+    padding-right: 800px;
+}
+body
+{
+    background-color: rgb(50, 163, 255);
+}¨
+.hlavicka
+{
+border-radius: 50px;
+    border: 20px solid green;
+    
+}
+.podtitle
+{
+border-radius: 50px;
+    border: 20px solid green;
+    
+}
+.karta
+{
+border-radius: 50px;
+    border: 20px solid green;
+    
+}
+.seznam-dovednosti
+{
+    
+}
+.mrizka-projektu
+{
+
+}
+.box
+{
+
+}
+.paticka
+{
+border-radius: 50px;
+    border: 20px solid green;
+    
+}
+.odkaz
+{
+
+}
+.copyright
+{
+
+}
+.obrazek
+{
+    border-radius:50px ;
+    border: 20px solid rgb(195,0,255);
+    align-content: center;
+}
+h1
+{
+    font-family: 'Comic sans MS';
+    font-size: 50px;
+    color: chartreuse;
+}
+h2
+{
+    font-family: 'Comic sans MS';
+    font-size: 30px;
+    color: chartreuse;
+}
+.tlacitko
+{
+    margin: 30px;
+    border-radius: 50px;
+    border: 5px solid black;
+    color:rgb(238, 255, 0);
+    background-color: hotpink;
+}
